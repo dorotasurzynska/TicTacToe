@@ -1,0 +1,9 @@
+C:\Users\Dori\Desktop\wf_tictactoe\wf_tictactoe\bin\Debug\wf_tictactoe.exe.config
+C:\Users\Dori\Desktop\wf_tictactoe\wf_tictactoe\bin\Debug\wf_tictactoe.exe
+C:\Users\Dori\Desktop\wf_tictactoe\wf_tictactoe\bin\Debug\wf_tictactoe.pdb
+C:\Users\Dori\Desktop\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.csprojResolveAssemblyReference.cache
+C:\Users\Dori\Desktop\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.Form1.resources
+C:\Users\Dori\Desktop\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.Properties.Resources.resources
+C:\Users\Dori\Desktop\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.csproj.GenerateResource.Cache
+C:\Users\Dori\Desktop\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.exe
+C:\Users\Dori\Desktop\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.pdb
